@@ -62,9 +62,7 @@ determ works with Python 3.6+ on Windows, macOS, and Linux. It is pure Python co
 
 Documentation
 -------------
-The latest documentation for determ can be read online here: https://determiner.readthedocs.io/en/latest/
-
-It is available in HTML, PDF, and ePub formats.
+The latest documentation for determ is present in this README.
 
 
 
