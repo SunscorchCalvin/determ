@@ -45,10 +45,6 @@ Element 2 determined: a cat
 Element 3 determined: an aardvark
 ```
 
-Main Features
--------------
-- Add something here - `fancy code`
-    
 Installation
 ------------
 On all operating systems, the latest stable version of `determ` can be installed using pip:
