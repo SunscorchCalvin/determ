@@ -1,5 +1,9 @@
 Determ
 =======================================================
+[![Latest Version](https://img.shields.io/badge/pypi-v0.0.2-blue)](https://pypi.org/project/determ/)
+[![Licence](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/licenses/MIT)
+[![Code Style](https://img.shields.io/badge/code%20style-PEP--8-yellow)](https://www.python.org/dev/peps/pep-0008/)
+
 Determ is a simple module which automatically appends the correct determiner to a given string or list element.
 Only one function is required `determiner` but what it does depends on the datatype supplied.
 
