@@ -1,6 +1,6 @@
 Determ
 =======================================================
-[![Latest Version](https://img.shields.io/badge/pypi-v0.0.2-blue)](https://pypi.org/project/determ/)
+[![Latest Version](https://img.shields.io/badge/pypi-v0.0.21-blue)](https://pypi.org/project/determ/)
 [![Licence](https://img.shields.io/badge/licence-MIT-green)](https://opensource.org/licenses/MIT)
 [![Code Style](https://img.shields.io/badge/code%20style-PEP--8-yellow)](https://www.python.org/dev/peps/pep-0008/)
 
