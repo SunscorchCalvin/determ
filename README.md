@@ -15,7 +15,7 @@ Example usage with a string:
 
 Supply determ's determiner function with a string you want to determine. 
 ```Python
-import determ
+from determ_package import determ
 # Passing determ a string to determine.
 test_consonant = "fish"
 test_vowel = "aardvark"
@@ -36,7 +36,7 @@ Example usage with a list:
 
 Supply the determ's determiner function with a list and the element index want to determine.
 ```Python
-import determ
+from determ_package import determ
 list = ['fish', 'dog', 'cat', 'aardvark']
 for i in range(0, len(list)):
     print(str("Element ") + str(i) + str(" determined: ") + determ.determiner(list, i))
